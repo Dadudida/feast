@@ -56,7 +56,7 @@ attrs==23.1.0
     #   aiohttp
     #   bowler
     #   jsonschema
-avro==1.10.0
+avro==1.11.3
     # via feast (setup.py)
 azure-core==1.27.0
     # via
