@@ -177,7 +177,7 @@ typing-extensions==4.6.3
     #   pydantic
     #   sqlalchemy2-stubs
     #   starlette
-urllib3==2.0.2
+urllib3==1.26.18
     # via requests
 uvicorn[standard]==0.22.0
     # via feast (setup.py)
