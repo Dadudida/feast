@@ -78,7 +78,7 @@ httptools==0.6.1
     # via uvicorn
 httpx==0.25.1
     # via feast (setup.py)
-idna==3.4
+idna==3.7
     # via
     #   anyio
     #   httpx
