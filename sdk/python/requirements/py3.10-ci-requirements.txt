@@ -290,7 +290,7 @@ grpcio-testing==1.59.2
     # via feast (setup.py)
 grpcio-tools==1.59.2
     # via feast (setup.py)
-gunicorn==21.2.0
+gunicorn==22.0.0
     # via feast (setup.py)
 h11==0.14.0
     # via
@@ -314,7 +314,7 @@ httpx==0.25.1
     # via feast (setup.py)
 identify==2.5.31
     # via pre-commit
-idna==3.4
+idna==3.7
     # via
     #   anyio
     #   httpx
@@ -732,7 +732,7 @@ referencing==0.31.0
     #   jupyter-events
 regex==2023.10.3
     # via feast (setup.py)
-requests==2.31.0
+requests==2.32.0
     # via
     #   azure-core
     #   cachecontrol
@@ -879,7 +879,7 @@ tornado==6.3.3
     #   jupyterlab
     #   notebook
     #   terminado
-tqdm==4.66.1
+tqdm==4.66.3
     # via
     #   feast (setup.py)
     #   great-expectations
